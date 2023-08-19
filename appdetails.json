@@ -16,6 +16,6 @@
     {"id":6, "app":"com.get.client"}
   ],
   "free":[
-    {"id":0, "file":0, "city":"Iowa","country":"United States","image":"unitedstates","ip":"35.188.194.238","active":"true","signal":"a"}
+    {"id":0, "file":0, "city":"Iowa","country":"United States","image":"unitedstates","ip":"34.95.224.78","active":"true","signal":"a"}
   ]
 }
