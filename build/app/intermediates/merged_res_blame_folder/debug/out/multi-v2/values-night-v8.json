@@ -1,0 +1,55 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.myapp.vpnapp-mergeDebugResources-13:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\tamgufabr.Alucorp\\Desktop\\vpn_app\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "172,817",
+                        "endLines": "7,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "475,1060"
+                    },
+                    "to": {
+                        "startLines": "3,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "112,293",
+                        "endLines": "6,10",
+                        "endColumns": "12,12",
+                        "endOffsets": "288,536"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\tamgufabr.Alucorp\\Desktop\\vpn_app\\android\\app\\src\\main\\res\\values-night\\ic_launcher_background.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "107"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\tamgufabr.Alucorp\\.gradle\\caches\\transforms-3\\3f60d35d898422dfe6c2c793c3191bcf\\transformed\\appcompat-1.1.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
+                    },
+                    "to": {
+                        "startLines": "11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "541,611,695,779,875,977,1079,1173",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "606,690,774,870,972,1074,1168,1257"
+                    }
+                }
+            ]
+        }
+    ]
+}

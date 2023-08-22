@@ -1,0 +1,17 @@
+com.myapp.vpnapp-appcompat-1.1.0-0 C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\3f60d35d898422dfe6c2c793c3191bcf\transformed\appcompat-1.1.0\res
+com.myapp.vpnapp-core-1.6.0-1 C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\4f120e101a63e321eeb864ef026c6ce1\transformed\core-1.6.0\res
+com.myapp.vpnapp-jetified-startup-runtime-1.0.0-2 C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\5664d12e408766ed58236d07344560f5\transformed\jetified-startup-runtime-1.0.0\res
+com.myapp.vpnapp-work-runtime-2.7.0-3 C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\res
+com.myapp.vpnapp-jetified-window-java-1.0.0-beta04-4 C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\8e8d0eaa8d0e53062515038ac781d379\transformed\jetified-window-java-1.0.0-beta04\res
+com.myapp.vpnapp-jetified-annotation-experimental-1.1.0-5 C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\8fc18869509e9a573a34b88cc5e2f788\transformed\jetified-annotation-experimental-1.1.0\res
+com.myapp.vpnapp-jetified-appcompat-resources-1.1.0-6 C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\9ce8a571be6afa5adc7a56ddb87d2494\transformed\jetified-appcompat-resources-1.1.0\res
+com.myapp.vpnapp-jetified-window-1.0.0-beta04-7 C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\f4add221443d8a96d9201ca561a24422\transformed\jetified-window-1.0.0-beta04\res
+com.myapp.vpnapp-debug-8 C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\android\app\src\debug\res
+com.myapp.vpnapp-main-9 C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\android\app\src\main\res
+com.myapp.vpnapp-pngs-10 C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\build\app\generated\res\pngs\debug
+com.myapp.vpnapp-resValues-11 C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\build\app\generated\res\resValues\debug
+com.myapp.vpnapp-rs-12 C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\build\app\generated\res\rs\debug
+com.myapp.vpnapp-mergeDebugResources-13 C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.myapp.vpnapp-mergeDebugResources-14 C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.myapp.vpnapp-merged_res-15 C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\build\app\intermediates\merged_res\debug
+com.myapp.vpnapp-packaged_res-16 C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\build\vpnLib\intermediates\packaged_res\debug

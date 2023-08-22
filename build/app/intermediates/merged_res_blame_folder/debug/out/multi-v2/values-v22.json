@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.myapp.vpnapp-mergeDebugResources-13:/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\tamgufabr.Alucorp\\.gradle\\caches\\transforms-3\\3f60d35d898422dfe6c2c793c3191bcf\\transformed\\appcompat-1.1.0\\res\\values-v22\\values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,553",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,548,896"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,487",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,482,764"
+                    }
+                }
+            ]
+        }
+    ]
+}

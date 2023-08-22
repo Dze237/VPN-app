@@ -1,0 +1,427 @@
+-- Merging decision tree log ---
+application
+INJECTED from C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\android\app\src\main\AndroidManifest.xml:14:5-64:19
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\5664d12e408766ed58236d07344560f5\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\5664d12e408766ed58236d07344560f5\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\f4add221443d8a96d9201ca561a24422\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\f4add221443d8a96d9201ca561a24422\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\4f120e101a63e321eeb864ef026c6ce1\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\4f120e101a63e321eeb864ef026c6ce1\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\9a215bc54880c6dd957b13e41ebd5111\transformed\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\9a215bc54880c6dd957b13e41ebd5111\transformed\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\3cb5c66fe0a968009044032844119254\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\3cb5c66fe0a968009044032844119254\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\4f120e101a63e321eeb864ef026c6ce1\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:name
+		INJECTED from C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\android\app\src\main\AndroidManifest.xml
+manifest
+ADDED from C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\android\app\src\main\AndroidManifest.xml:1:1-65:12
+INJECTED from C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\android\app\src\main\AndroidManifest.xml:1:1-65:12
+INJECTED from C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\android\app\src\main\AndroidManifest.xml:1:1-65:12
+INJECTED from C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\android\app\src\main\AndroidManifest.xml:1:1-65:12
+MERGED from C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\android\app\src\main\AndroidManifest.xml:1:1-65:12
+MERGED from [:path_provider_android] C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:vpnLib] C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\build\vpnLib\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\e73c86b3573ad4a7ff179a0b22b3e639\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\7b41efd1d49a336b2f1fd7fc5da8b169\transformed\multidex-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:17:1-145:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\3f60d35d898422dfe6c2c793c3191bcf\transformed\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\5664d12e408766ed58236d07344560f5\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\cd61d0ec39b4b6434a35c6f2f2f228fc\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\8e8d0eaa8d0e53062515038ac781d379\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\9ce8a571be6afa5adc7a56ddb87d2494\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\8b6c985bde2cfdf47394fd05d3d18296\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\beea0202a3bfc6fcead60be62b365ba4\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\615d68c119f5b23283ee26bf38d4dfb4\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\cc04a3b42d3271621c7de5b531560e3d\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\f4add221443d8a96d9201ca561a24422\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\1bcc206c0510161075e5a6bef7d8a801\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\cf38180b23347b1ee1726524e37f3b65\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\cafbe43705e7de51ef70afaa838b9e74\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\4f120e101a63e321eeb864ef026c6ce1\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\9a215bc54880c6dd957b13e41ebd5111\transformed\room-runtime-2.2.5\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\53cede3c36ec1b077a5ae00c851c5d4b\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\f05b50036d1ed77010154ad2f833ac88\transformed\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\e56d26906d68eaa2144e178ca26ebe6f\transformed\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\53f386143607e8ea8b7355176976d8c6\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\fe803781d681615856e9feaa04a40617\transformed\lifecycle-livedata-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\b854f5c089cf9df3a9914fa1df8037e5\transformed\lifecycle-livedata-core-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\06c13e842c264ee394d263cbc5b6d921\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\8ad778b30c4ee95348893892970114ae\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\882cfffd8d3c95ba668d49b40f3d88f0\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\0d9e1b4391addfda74e39081112cf686\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\3cb5c66fe0a968009044032844119254\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\bd6f4eb4b04f0282f1a61b855e27d390\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\9f8ae07c01b7029dd5f1bc24deb42eb2\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\8fc18869509e9a573a34b88cc5e2f788\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\android\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\android\app\src\main\AndroidManifest.xml:1:1-65:12
+		INJECTED from C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\android\app\src\main\AndroidManifest.xml:2:5-51
+		ADDED from C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\android\app\src\main\AndroidManifest.xml:2:5-51
+	android:versionCode
+		INJECTED from C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\android\app\src\main\AndroidManifest.xml:1:1-65:12
+		INJECTED from C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\android\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\android\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\android\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\android\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\android\app\src\main\AndroidManifest.xml:6:5-79
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:26:5-79
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\android\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\android\app\src\main\AndroidManifest.xml:7:5-77
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:28:5-77
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:28:5-77
+	android:name
+		ADDED from C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\android\app\src\main\AndroidManifest.xml:7:22-74
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\android\app\src\main\AndroidManifest.xml:8:5-68
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:25:5-68
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\android\app\src\main\AndroidManifest.xml:8:22-65
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\android\app\src\main\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\android\app\src\main\AndroidManifest.xml:11:22-76
+uses-sdk
+INJECTED from C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\android\app\src\main\AndroidManifest.xml
+MERGED from [:path_provider_android] C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:vpnLib] C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\build\vpnLib\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:vpnLib] C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\build\vpnLib\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\e73c86b3573ad4a7ff179a0b22b3e639\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\e73c86b3573ad4a7ff179a0b22b3e639\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\7b41efd1d49a336b2f1fd7fc5da8b169\transformed\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\7b41efd1d49a336b2f1fd7fc5da8b169\transformed\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\3f60d35d898422dfe6c2c793c3191bcf\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\3f60d35d898422dfe6c2c793c3191bcf\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\5664d12e408766ed58236d07344560f5\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\5664d12e408766ed58236d07344560f5\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\cd61d0ec39b4b6434a35c6f2f2f228fc\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\cd61d0ec39b4b6434a35c6f2f2f228fc\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\8e8d0eaa8d0e53062515038ac781d379\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\8e8d0eaa8d0e53062515038ac781d379\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\9ce8a571be6afa5adc7a56ddb87d2494\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\9ce8a571be6afa5adc7a56ddb87d2494\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\8b6c985bde2cfdf47394fd05d3d18296\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\8b6c985bde2cfdf47394fd05d3d18296\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\beea0202a3bfc6fcead60be62b365ba4\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\beea0202a3bfc6fcead60be62b365ba4\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\615d68c119f5b23283ee26bf38d4dfb4\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\615d68c119f5b23283ee26bf38d4dfb4\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\cc04a3b42d3271621c7de5b531560e3d\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\cc04a3b42d3271621c7de5b531560e3d\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\f4add221443d8a96d9201ca561a24422\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\f4add221443d8a96d9201ca561a24422\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\1bcc206c0510161075e5a6bef7d8a801\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\1bcc206c0510161075e5a6bef7d8a801\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\cf38180b23347b1ee1726524e37f3b65\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\cf38180b23347b1ee1726524e37f3b65\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\cafbe43705e7de51ef70afaa838b9e74\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\cafbe43705e7de51ef70afaa838b9e74\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\4f120e101a63e321eeb864ef026c6ce1\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\4f120e101a63e321eeb864ef026c6ce1\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\9a215bc54880c6dd957b13e41ebd5111\transformed\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\9a215bc54880c6dd957b13e41ebd5111\transformed\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\53cede3c36ec1b077a5ae00c851c5d4b\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\53cede3c36ec1b077a5ae00c851c5d4b\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\f05b50036d1ed77010154ad2f833ac88\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\f05b50036d1ed77010154ad2f833ac88\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\e56d26906d68eaa2144e178ca26ebe6f\transformed\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\e56d26906d68eaa2144e178ca26ebe6f\transformed\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\53f386143607e8ea8b7355176976d8c6\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\53f386143607e8ea8b7355176976d8c6\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\fe803781d681615856e9feaa04a40617\transformed\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\fe803781d681615856e9feaa04a40617\transformed\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\b854f5c089cf9df3a9914fa1df8037e5\transformed\lifecycle-livedata-core-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\b854f5c089cf9df3a9914fa1df8037e5\transformed\lifecycle-livedata-core-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\06c13e842c264ee394d263cbc5b6d921\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\06c13e842c264ee394d263cbc5b6d921\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\8ad778b30c4ee95348893892970114ae\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\8ad778b30c4ee95348893892970114ae\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\882cfffd8d3c95ba668d49b40f3d88f0\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\882cfffd8d3c95ba668d49b40f3d88f0\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\0d9e1b4391addfda74e39081112cf686\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\0d9e1b4391addfda74e39081112cf686\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\3cb5c66fe0a968009044032844119254\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\3cb5c66fe0a968009044032844119254\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\bd6f4eb4b04f0282f1a61b855e27d390\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\bd6f4eb4b04f0282f1a61b855e27d390\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\9f8ae07c01b7029dd5f1bc24deb42eb2\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\9f8ae07c01b7029dd5f1bc24deb42eb2\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\8fc18869509e9a573a34b88cc5e2f788\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\8fc18869509e9a573a34b88cc5e2f788\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tamgufabr.Alucorp\Desktop\vpn_app\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:27:22-78
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:31:9-39:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\5664d12e408766ed58236d07344560f5\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\5664d12e408766ed58236d07344560f5\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:35:13-31
+	android:authorities
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:33:13-68
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:32:13-67
+meta-data#androidx.work.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:36:13-38:52
+	android:value
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:38:17-49
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:37:17-68
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:41:9-46:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:44:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:45:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:46:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:43:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:42:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:47:9-53:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:50:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:51:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:52:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:53:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:49:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:48:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:54:9-59:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:57:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:58:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:59:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:56:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:55:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:61:9-66:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:64:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:65:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:66:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:63:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:62:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:68:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:73:13-76:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:74:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:74:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:75:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:75:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:84:13-87:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:85:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:86:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:86:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:89:9-99:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:90:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:95:13-98:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:96:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:96:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:97:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:97:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:100:9-109:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:103:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:104:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:105:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:102:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:101:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:106:13-108:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:107:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:107:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:110:9-121:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:113:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:114:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:115:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:112:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:111:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:116:13-120:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:117:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:117:25-76
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:118:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:118:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:119:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:119:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:122:9-131:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:125:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:126:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:127:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:123:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:128:13-130:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:129:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:129:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:132:9-142:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:135:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:136:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:137:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:138:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:134:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:133:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:139:13-141:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:140:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\6d3fcc8aa04f028a9c855b9b8df55b5d\transformed\work-runtime-2.7.0\AndroidManifest.xml:140:25-85
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\f4add221443d8a96d9201ca561a24422\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\f4add221443d8a96d9201ca561a24422\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\f4add221443d8a96d9201ca561a24422\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\f4add221443d8a96d9201ca561a24422\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\f4add221443d8a96d9201ca561a24422\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\f4add221443d8a96d9201ca561a24422\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\9a215bc54880c6dd957b13e41ebd5111\transformed\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\9a215bc54880c6dd957b13e41ebd5111\transformed\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\9a215bc54880c6dd957b13e41ebd5111\transformed\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\tamgufabr.Alucorp\.gradle\caches\transforms-3\9a215bc54880c6dd957b13e41ebd5111\transformed\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
