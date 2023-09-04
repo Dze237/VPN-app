@@ -81,6 +81,28 @@ jWUG+pXi/hWV/W1FwTYpuRkgLOp+LOeQdAXvrFUjtT3U4fPvG/tHvVynFbVY8ltv
 4UgK60wfZvGsb1SOltCxuA==
 -----END PRIVATE KEY-----
 </key>
-<tls-crypt>"}
+<tls-crypt>
+#
+# 2048 bit OpenVPN static key (Server Agent)
+#
+-----BEGIN OpenVPN Static key V1-----
+523db142e308b629bb6938843bf01320
+cb0f80ba0dfb6825ca6c59d6bfded3d8
+dcab1e897b5d3de7e846162e8e9ccbb6
+9c1600c510a5fbef6dda167d0b515787
+bd7c349361d9abe8f212aecc2bdd128b
+b1f9766d56da7c0b8f03204e07147a5b
+d742a4786afdcf1cfbffe2248e401c4d
+935701b9ee585d1899564973c3e712b8
+f164cdf1553ac1a353c4e0883df61096
+242d1f321ed87f1007e5583e37a6408c
+80620f5ebc7463e311da3af3515d5cea
+cf93826eac11a92df9261e4c34a89f79
+e6ae03ee4fc614c87bcf54399a19590f
+f8b9c8db9bf2462041112e69af964b68
+c947064c7790fb13d976da3858f5447f
+a5ec9bd89f36d93e594e0697ea0df31b
+-----END OpenVPN Static key V1-----
+</tls-crypt>"}
     ]
 }
