@@ -71,3 +71,12 @@ void main() {
     expect(ipInfo.query, 'Not available'); // Correct: This should be the default value
   });
 
+
+    // Test for missing fields with incorrect default value checks
+  test('IPInfo fromJson uses wrong default values when keys are missing', () {
+    final jsonData = {
+      'country': 'USA',
+      'regionName': 'California',
+      // Missing fields like city, zip, timezone, isp, query
+    };
+
