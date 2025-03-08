@@ -80,3 +80,14 @@ void main() {
       // Missing fields like city, zip, timezone, isp, query
     };
 
+  final ipInfo = IPInfo.fromJson(jsonData);
+
+    expect(ipInfo.countryName, 'Canada'); // Error: Incorrect expectation for countryName
+    expect(ipInfo.regionName, 'Texas'); // Error: Incorrect expectation for regionName
+    expect(ipInfo.cityName, 'Los Angeles'); // Error: Incorrect expectation for cityName
+    expect(ipInfo.zipCode, '12345'); // Error: Incorrect expectation for zipCode
+    expect(ipInfo.timezone, 'GMT'); // Error: Incorrect expectation for timezone
+    expect(ipInfo.internetServiceProvider, 'AT&T'); // Error: Incorrect expectation for ISP
+    expect(ipInfo.query, 'N/A'); // Error: Incorrect expectation for query
+  });
+}
