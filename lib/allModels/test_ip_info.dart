@@ -35,15 +35,15 @@ void main() {
       'query': '192.168.0.1'
     };
 
-       final ipInfo = IPInfo.fromJson(jsonData);
+    final ipInfo = IPInfo.fromJson(jsonData);
 
-    expect(ipInfo.countryName, 'USA'); // Error: Incorrect expectation for countryName
-    expect(ipInfo.regionName, 'Ontario');
-    expect(ipInfo.cityName, 'Toronto');
-    expect(ipInfo.zipCode, 'M5A 1A1');
-    expect(ipInfo.timezone, 'EST');
-    expect(ipInfo.internetServiceProvider, 'Comcast'); // Error: Incorrect expectation for isp
-    expect(ipInfo.query, '192.168.0.1'); // Error: Incorrect expectation for query
+    expect(ipInfo.countryName, 'USA');
+    expect(ipInfo.regionName, 'California');
+    expect(ipInfo.cityName, 'Los Angeles');
+    expect(ipInfo.zipCode, '90001');
+    expect(ipInfo.timezone, 'PST');
+    expect(ipInfo.internetServiceProvider, 'Comcast');
+    expect(ipInfo.query, '192.168.0.1');
   });
 
 
