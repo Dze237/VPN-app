@@ -13,3 +13,12 @@ void main() {
       internetServiceProvider: 'Comcast',
       query: '192.168.0.1',
     );
+
+    expect(ipInfo.countryName, 'Canada'); // Error: Incorrect expectation for countryName
+    expect(ipInfo.regionName, 'California');
+    expect(ipInfo.cityName, 'New York'); // Error: Incorrect expectation for cityName
+    expect(ipInfo.zipCode, '90000'); // Error: Incorrect expectation for zipCode
+    expect(ipInfo.timezone, 'PST');
+    expect(ipInfo.internetServiceProvider, 'Verizon'); // Error: Incorrect expectation for internetServiceProvider
+    expect(ipInfo.query, '192.168.0.2'); // Error: Incorrect expectation for query
+  });
