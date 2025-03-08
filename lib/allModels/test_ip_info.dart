@@ -45,3 +45,16 @@ void main() {
     expect(ipInfo.internetServiceProvider, 'Comcast'); // Error: Incorrect expectation for isp
     expect(ipInfo.query, '192.168.0.1'); // Error: Incorrect expectation for query
   });
+
+
+   // Test for missing keys with incorrect default values expectations
+  test('IPInfo fromJson handles missing keys incorrectly', () {
+    final jsonData = {
+      'country': 'USA',
+      'regionName': 'California',
+      // 'city' is missing
+      'zip': '90001',
+      'timezone': 'PST',
+      'isp': 'Comcast',
+      // 'query' is missing
+    };
