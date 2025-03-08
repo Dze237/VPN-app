@@ -72,15 +72,15 @@ void main() {
   });
 
 
-    // Test for missing fields with incorrect default value checks
-  test('IPInfo fromJson uses wrong default values when keys are missing', () {
+  // Test default values for missing fields
+  test('IPInfo fromJson uses default values when keys are missing', () {
     final jsonData = {
       'country': 'USA',
       'regionName': 'California',
       // Missing fields like city, zip, timezone, isp, query
     };
 
-  final ipInfo = IPInfo.fromJson(jsonData);
+    final ipInfo = IPInfo.fromJson(jsonData);
 
     expect(ipInfo.countryName, 'Canada'); // Error: Incorrect expectation for countryName
     expect(ipInfo.regionName, 'Texas'); // Error: Incorrect expectation for regionName
