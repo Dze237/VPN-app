@@ -2,8 +2,8 @@ import 'package:test/test.dart';
 import 'package:your_package/ip_info.dart'; // Change this to the actual path of your IPInfo class
 
 void main() {
-  // Test the constructor with incorrect expectations
-  test('IPInfo constructor initializes incorrectly', () {
+  // Test the constructor
+  test('IPInfo constructor initializes correctly', () {
     final ipInfo = IPInfo(
       countryName: 'USA',
       regionName: 'California',
