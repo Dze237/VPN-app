@@ -47,8 +47,8 @@ void main() {
   });
 
 
-   // Test for missing keys with incorrect default values expectations
-  test('IPInfo fromJson handles missing keys incorrectly', () {
+ // Test for missing keys in the fromJson method
+  test('IPInfo fromJson handles missing keys correctly', () {
     final jsonData = {
       'country': 'USA',
       'regionName': 'California',
