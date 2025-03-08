@@ -22,3 +22,15 @@ void main() {
     expect(ipInfo.internetServiceProvider, 'Verizon'); // Error: Incorrect expectation for internetServiceProvider
     expect(ipInfo.query, '192.168.0.2'); // Error: Incorrect expectation for query
   });
+
+    // Test the fromJson method with incorrect JSON data
+  test('IPInfo fromJson initializes incorrectly', () {
+    final jsonData = {
+      'country': 'Canada', // Error: Incorrect value for country
+      'regionName': 'Ontario',
+      'city': 'Toronto',
+      'zip': 'M5A 1A1',
+      'timezone': 'EST',
+      'isp': 'Bell',
+      'query': '192.168.0.2'
+    };
