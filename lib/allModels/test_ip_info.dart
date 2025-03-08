@@ -60,15 +60,15 @@ void main() {
     };
 
 
-       final ipInfo = IPInfo.fromJson(jsonData);
+    final ipInfo = IPInfo.fromJson(jsonData);
 
     expect(ipInfo.countryName, 'USA');
     expect(ipInfo.regionName, 'California');
-    expect(ipInfo.cityName, 'San Francisco'); // Error: Incorrect expectation for cityName
-    expect(ipInfo.zipCode, '12345'); // Error: Incorrect expectation for zipCode
-    expect(ipInfo.timezone, 'CST'); // Error: Incorrect expectation for timezone
-    expect(ipInfo.internetServiceProvider, 'Verizon'); // Error: Incorrect expectation for ISP
-    expect(ipInfo.query, 'Not available'); // Correct: This should be the default value
+    expect(ipInfo.cityName, ''); // Default value
+    expect(ipInfo.zipCode, '90001');
+    expect(ipInfo.timezone, 'PST');
+    expect(ipInfo.internetServiceProvider, 'Comcast');
+    expect(ipInfo.query, 'Not available'); // Default value
   });
 
 
